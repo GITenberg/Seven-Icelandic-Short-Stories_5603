@@ -1,0 +1,28 @@
+_repo: Seven-Icelandic-Short-Stories_5603
+_version: 0.0.1
+creator:
+  editors:
+  - agent_name: Steingrímur J. Þorsteinsson
+    gutenberg_agent_id: '1806'
+    url: http://www.gutenberg.org/2009/agents/1806
+  - agent_name: Ásgeir Pétursson
+    gutenberg_agent_id: '1805'
+    url: http://www.gutenberg.org/2009/agents/1805
+description: ''
+gutenberg_bookshelf: Short Stories
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5603'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Icelandic -- Translations into English'
+- !lcc 'PT'
+- GITenberg
+tableOfContents: The story of Audunn and the bear -- A dry spell -- The old hay --
+  When I was on the frigate -- Father and son -- The fox skin -- New Iceland.
+title: Seven Icelandic Short Stories
+url: http://www.gutenberg.org/ebooks/5603
